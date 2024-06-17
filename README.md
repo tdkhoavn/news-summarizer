@@ -19,8 +19,8 @@ To get started with this project, follow these steps:
 
 1. **Clone the repository**:
     ```bash
-    git clone https://github.com/tdkhoavn/news_summarizer.git
-    cd news_summarizer
+    git clone https://github.com/tdkhoavn/news-summarizer.git
+    cd news-summarizer
     ```
 
 2. **Create and activate a virtual environment**:
